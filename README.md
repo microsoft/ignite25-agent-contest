@@ -1,33 +1,44 @@
-# Project
+# ✨ Contest Details
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+Welcome to Microsoft’s **Mission Agent Possible** contest at Microsoft Ignite 2025
 
-As the maintainer of this project, please make a few updates:
+2025 is the year of agents—and this contest is all about mastering model selection. Choosing the right model is the foundation for building effective agents. Your challenge: design instructions that not only guide your agent but also leverage the best model for the job. Show how smart model choices combined with clear purpose, guidelines, and skills can help your agent tackle urgent challenges, communicate effectively, and deliver results under pressure.
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+## What’s involved?
+- Step into the role of an AI strategist at Trey Marketing Inc.
+- Respond to a product launch crisis using your agent’s intelligence and creativity.
+- Choose your AI model, define your agent’s persona, and tackle tasks in image, text, or audio.
+- Submit your agent details and contest answers for a chance to win!
 
-## Contributing
+### Key components of agent instructions:
+- **Purpose**
+- **General guidelines** (directions, tone, restrictions)
+- **Skills**
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit [Contributor License Agreements](https://cla.opensource.microsoft.com).
+So, what are you waiting for? **Unleash your creativity, write your best agent instructions, and submit your prompt for a chance to win amazing prizes! 🥳**
 
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
+The contest runs from **Nov 18 to Nov 20**.  
+**Submission deadline:** Nov 20 at 12:00pm (noon) PST.  
+Submissions after this deadline are not eligible.
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+## ✍️ How to Submit
 
-## Trademarks
+Before submitting, read through the [eligibility guidance](https://aka.ms/CanIWin) and make sure you understand the requirements.
 
-This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft
-trademarks or logos is subject to and must follow
-[Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general).
-Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
-Any use of third-party trademarks or logos are subject to those third-party's policies.
+<h1 style="color:red">Contest is closed</h1>
+
+## 🏆 Prizes
+
+There are multiple prize categories, including:
+- **Main Winner:** Top submission
+- **Honourable Mentions:** Most Dramatic Agent, Best Model Selection, Fastest Fixer, Sassiest AI Personality
+
+
+## 💡 Learning Resources
+
+Need help choosing the right model?
+Check out [https://aka.ms/models-blog](https://aka.ms/models-blog) for a quick guide on model selection.
+Deepdive into labs?
+[Nitya's labs]
+Watch videos on model selection?
+[Model Mondays video links]

@@ -5,6 +5,7 @@
 Welcome to Microsoft’s **Mission Agent Possible** contest at Microsoft Ignite 2025.
 
 2025 is the year of agents—and this contest is all about mastering model selection. Choosing the right model is the foundation for building effective agents. 
+
 **Your challenge**: design instructions that not only guide your agent but also leverage the best model for the job. Show how smart model choices combined with clear purpose, guidelines, and skills can help your agent tackle urgent challenges, communicate effectively, and deliver results under pressure.
 
 ---

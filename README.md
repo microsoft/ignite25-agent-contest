@@ -13,7 +13,7 @@ Welcome to Microsoft’s **Mission Agent Possible** contest at Microsoft Ignite 
 ## What’s involved?
 - Step into the role of an AI strategist at Trey Marketing Inc.
 - Respond to a product launch crisis using your agent’s intelligence and creativity.
-- Choose your AI model, define your agent’s persona, and tackle tasks in image, text, or audio.
+- Choose your AI model, define your agent’s persona, and tackle tasks in image, text
 - Submit your agent details and contest answers for a chance to win!
 
 ---
@@ -23,7 +23,7 @@ Welcome to Microsoft’s **Mission Agent Possible** contest at Microsoft Ignite 
 - **Mission Focus**: Define your agent’s role in solving Trey Marketing’s product launch crisis.
 - **Persona & Approach**: Set the agent’s personality, tone, and strategy for tackling urgent tasks.
 - **Model Selection**: Choose the AI model that best fits your mission—explain your reasoning!
-- **Task Execution**: Show how your agent handles image analysis, text communication, or audio transcription under pressure.
+- **Task Execution**: Show how your agent handles image analysis, text communication under pressure.
 - **Safety & Efficiency**: Include safety measures and aim for cost-effective solutions (Bonus).
 
 ---

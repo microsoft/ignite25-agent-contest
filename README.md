@@ -55,11 +55,14 @@ _Leverage your agentic skills and AI expertise to stabilise the situation and en
 
 *(Self-destructing messages not included—but speed and precision are everything.)*
 
-## ⚠️ **Mission Brief Incoming...**
+---
 
-> **Hold your position.**  
-> The operation is classified until **18 November 2025**.  
-> Stay alert—your mission details will be revealed soon
+## ⚠️ **Mission Brief: Accept Your Challenge**
+
+**🎯 [READ THE FULL MISSION BRIEF HERE](https://github.com/microsoft/ignite25-agent-contest/blob/main/docs/contest.md)**
+
+Your crisis scenario, tasks, and submission requirements await.  
+The clock is ticking—don't wait!
 
 ---
 

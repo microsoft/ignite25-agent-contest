@@ -1,8 +1,8 @@
 # Mission Agent Possible Contest Submission
 
 ## Participant Information
-- **Name**: Naveen Kothasamy
-- **GitHub**: [@naveenkothas](https://github.com/naveenkothas)
+- **Name**: Naveen Kumar Kotha- **GitHub**: [@naveenkothas](https://github.com/naveenkothas)
+- - **Email**: naveenkothas@gmail.com / naveeenkumar.kotha@blueyonder.com
 - **Project Repository**: [github.com/naveenkothas/ignite25-agent-contest](https://github.com/naveenkothas/ignite25-agent-contest)
 - **Submission Date**: November 20, 2025
 

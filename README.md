@@ -1,4 +1,4 @@
-<img width="1735" height="576" alt="2025-10-29_11-37-35" src="https://github.com/user-attachments/assets/83b6f9ff-eae0-441f-8806-841588d82e12" />
+<img width="904" height="291" alt="2025-11-20_12-51-58" src="https://github.com/user-attachments/assets/7d88565f-ab81-402e-9b48-844f26665390" />
 
 # ✨ Contest Details
 
@@ -15,16 +15,6 @@ Welcome to Microsoft’s **Mission Agent Possible** contest at Microsoft Ignite 
 - Respond to a product launch crisis using your agent’s intelligence and creativity.
 - Choose your AI model, define your agent’s persona, and tackle tasks in image, text
 - Submit your agent details and contest answers for a chance to win!
-
----
-
-## 🚀 Submit Your Agent
-
-### Ready to save the launch? Submit now!
-
-### 👉 **[aka.ms/agent-contest/submit](https://aka.ms/agent-contest/submit)**
-
-**Deadline:** November 20, 2025 at 12:00pm (noon) PST
 
 ---
 
@@ -66,14 +56,6 @@ _Leverage your agentic skills and AI expertise to stabilise the situation and en
 
 *(Self-destructing messages not included—but speed and precision are everything.)*
 
----
-
-## ⚠️ **Mission Brief: Accept Your Challenge**
-
-**🎯 [READ THE FULL MISSION BRIEF HERE](https://github.com/microsoft/ignite25-agent-contest/blob/main/docs/contest.md)**
-
-Your crisis scenario, tasks, and submission requirements await.  
-The clock is ticking—don't wait!
 
 ---
 

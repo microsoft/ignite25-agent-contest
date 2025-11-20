@@ -47,7 +47,7 @@ Submissions after this deadline are not eligible.
 
 ---
 
-## ✍️ How to Submit
+## ✍️ Can I win?
 
 Before submitting, make sure you understand the requirements. Anyone can submit and will be given a chance to showcase their work at [Model Mondays](https://developer.microsoft.com/en-us/reactor/series/s-1485/)!  
 You have to be an in-person attendee at Microsoft Ignite 2025 to win the official prizes. Please read through the [eligibility guidance](https://aka.ms/can-I-win).

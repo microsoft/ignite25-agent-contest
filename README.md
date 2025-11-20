@@ -18,6 +18,17 @@ Welcome to Microsoft’s **Mission Agent Possible** contest at Microsoft Ignite 
 
 ---
 
+## 🚀 Submit Your Agent
+
+### Ready to save the launch? Submit now!
+
+### 👉 **[aka.ms/agent-contest/submit](https://aka.ms/agent-contest/submit)**
+
+**Deadline:** November 20, 2025 at 12:00pm (noon) PST
+
+---
+
+
 ## What makes a winning agent in **Mission Agent Possible**?
 
 - **Mission Focus**: Define your agent’s role in solving Trey Marketing’s product launch crisis.

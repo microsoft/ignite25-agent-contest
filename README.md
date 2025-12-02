@@ -10,6 +10,12 @@ Welcome to Microsoft’s **Mission Agent Possible** contest at Microsoft Ignite 
 
 ---
 
+## Contest Winners 🎉
+
+Congratulations to our winners **TreyLink Sentinel** and **MonitorMate**! 
+
+> Top 5 winners were required to be physically present to claim prizes when announced. If you were a virtual participant who made it into the top 5, you have the opportunity to feature on the Model Mondays Podcast instead.
+
 ## What’s involved?
 - Step into the role of an AI strategist at Trey Marketing Inc.
 - Respond to a product launch crisis using your agent’s intelligence and creativity.
